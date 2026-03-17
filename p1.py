@@ -13,6 +13,7 @@ class queue:
         return len(self.queue)
 
 q = queue()
+
 q.enqueue(1)
 q.enqueue(2)
 q.enqueue(3)

@@ -23,5 +23,3 @@ q.display()
 q.dequeue()
 print("after adding element")
 q.display()
-
-
